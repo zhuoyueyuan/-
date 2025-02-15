@@ -1,0 +1,14 @@
+C:\Users\A\Desktop\新建文件夹\血色麦浪\血色麦浪\bin\Release\net8.0\血色麦浪.exe
+C:\Users\A\Desktop\新建文件夹\血色麦浪\血色麦浪\bin\Release\net8.0\血色麦浪.deps.json
+C:\Users\A\Desktop\新建文件夹\血色麦浪\血色麦浪\bin\Release\net8.0\血色麦浪.runtimeconfig.json
+C:\Users\A\Desktop\新建文件夹\血色麦浪\血色麦浪\bin\Release\net8.0\血色麦浪.dll
+C:\Users\A\Desktop\新建文件夹\血色麦浪\血色麦浪\bin\Release\net8.0\血色麦浪.pdb
+C:\Users\A\Desktop\新建文件夹\血色麦浪\血色麦浪\obj\Release\net8.0\血色麦浪.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\Desktop\新建文件夹\血色麦浪\血色麦浪\obj\Release\net8.0\血色麦浪.AssemblyInfoInputs.cache
+C:\Users\A\Desktop\新建文件夹\血色麦浪\血色麦浪\obj\Release\net8.0\血色麦浪.AssemblyInfo.cs
+C:\Users\A\Desktop\新建文件夹\血色麦浪\血色麦浪\obj\Release\net8.0\血色麦浪.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\新建文件夹\血色麦浪\血色麦浪\obj\Release\net8.0\血色麦浪.dll
+C:\Users\A\Desktop\新建文件夹\血色麦浪\血色麦浪\obj\Release\net8.0\refint\血色麦浪.dll
+C:\Users\A\Desktop\新建文件夹\血色麦浪\血色麦浪\obj\Release\net8.0\血色麦浪.pdb
+C:\Users\A\Desktop\新建文件夹\血色麦浪\血色麦浪\obj\Release\net8.0\血色麦浪.genruntimeconfig.cache
+C:\Users\A\Desktop\新建文件夹\血色麦浪\血色麦浪\obj\Release\net8.0\ref\血色麦浪.dll
